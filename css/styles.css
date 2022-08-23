@@ -76,9 +76,8 @@ a:hover{
 }
 
 .cloud2 {
-  position: absolute;
-  left: 350px;
-  bottom:350px;
+   position: absolute;
+  bottom: 520px;
 }
 .mountain {
   position: relative;
